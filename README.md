@@ -1,2 +1,2 @@
 
-https://anisha1717.github.io/queshtml/.
+https://anisha1717.github.io/queshtml/queshtml
